@@ -1,26 +1,25 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title:
+excerpt:
+search_omit: true
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+I am a Senior Software Engineer at Microsoft (formerly 6Wunderkinder), the makers of Wunderlist. I have over sixteen years experience working on Software Quality, with the last five primarily developing server, web and mobile test automation. I'm passionate about automation and love finding new efficient and effective ways to increase software quality.
 
-## So Simple Theme is all about:
+<!-- <iframe width="560" height="315" src="https://dl.dropboxusercontent.com/1/view/rv07pp5jtu6xoa7/Public/test/2015-07-22%2022.12.58.jpg" frameborder="0"> </iframe> -->
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+<!-- ## About Me
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+* Responsive templates. Looking good on mobile, tablet, and desktop. -->
+
+<!-- <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a> -->
+
+<!-- <div style="text-align:center;">
+<a markdown="0" href="https://www.linkedin.com/pub/justin-ison/1/7b0/515" target="_blank" class="btn">LinkedIn</a>
+<a markdown="0" href="http://www.resume.com/share/8QbAm8puwHpWDbKqH" target="_blank" class="btn">Resume</a>
+<a markdown="0" href="https://github.com/isonic1" target="_blank" class="btn">Github</a>
+<a markdown="0" href="https://twitter.com/isonic1" target="_blank" class="btn">Twitter</a>
+</div> -->
 
 [^1]: Example: *domain.com/category-name/post-title*
