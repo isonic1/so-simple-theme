@@ -44,6 +44,7 @@ GEM
     jekyll-sitemap (0.8.0)
     jekyll-watch (1.2.1)
       listen (~> 2.7)
+    json (1.8.3)
     kramdown (1.5.0)
     liquid (2.6.2)
     listen (2.8.5)
@@ -93,6 +94,7 @@ DEPENDENCIES
   jekyll
   jekyll-gallery-generator
   jekyll-sitemap
+  json
   octopress (~> 3.0.0.rc.12)
   rouge
 
