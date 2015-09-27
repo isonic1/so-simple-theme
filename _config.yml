@@ -33,6 +33,15 @@ gallery:
   thumbnail_size:
     x: 400
     y: 400
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  galleries:
+    # chile_trip:
+    #   best_image: IMG_1068.JPG
+    # japan_trip:
+    #   best_image: IMG_0690.JPG
+    # best:
+    #   best_image: snaileo_gonzales.jpg
 
 kramdown:
   auto_ids: true

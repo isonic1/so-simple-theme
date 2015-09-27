@@ -34,6 +34,15 @@ gallery:
   thumbnail_size:
     x: 400
     y: 400
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  galleries:
+    # chile_trip:
+    #   best_image: IMG_1068.JPG
+    # japan_trip:
+    #   best_image: IMG_0690.JPG
+    # best:
+    #   best_image: snaileo_gonzales.jpg
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
