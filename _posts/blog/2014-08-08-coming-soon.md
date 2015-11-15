@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comming Soon"
+title: "Coming Soon"
 modified:
 categories: blog
 excerpt:
